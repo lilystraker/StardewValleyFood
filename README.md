@@ -3,17 +3,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[https://github.com/othneildrew/Best-README-Template](https://github.com/lilystraker/StardewValleyFood/edit/main/README.md)">
+  <a href="(https://github.com/lilystraker/StardewValleyFood/edit/main/README.md)">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Stardew Valley Villager Food Preferences</h3>
 
   <p align="center">
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="#">View Demonstration Video</a>
   </p>
 </div>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -47,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Plotly graph of villager preferences](https://github.com/lilystraker/StardewValleyFood/blob/990156e23aaac24d0a69eeb4e1d52b80b3d474c1/images/SDVplotly.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -58,14 +57,8 @@
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* ![Python]()
+* ![Plotly]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
