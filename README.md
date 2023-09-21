@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="(https://github.com/lilystraker/StardewValleyFood/edit/main/README.md)">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="200" height="80">
   </a>
 
   <h3 align="center">Stardew Valley Villager Food Preferences</h3>
