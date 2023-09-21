@@ -55,10 +55,8 @@
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* ![Python]()
-* ![Plotly]()
+  ![Python Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+  ![Plotly Badge](https://img.shields.io/badge/Plotly-blue?style=for-the-badge&logo=plotly)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,5 +171,6 @@ Use this space to list resources you find helpful and would like to give credit 
 * [README template](https://github.com/othneildrew/Best-README-Template)
 * [Stardew Valley Wiki](https://stardewvalleywiki.com/Stardew_Valley_Wiki)
 * Concerned Ape (This is unaffiliated with Stardew Valley the video game)
+* [Badge Maker](https://shields.io/badges)
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
