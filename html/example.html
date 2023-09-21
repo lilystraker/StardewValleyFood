@@ -1,0 +1,47 @@
+<html>
+
+<head>
+
+    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+
+    <py-env>
+        - numpy
+        - plotly
+    </py-env>
+
+</head>
+
+<body>
+
+    <h1>Plotly Example</h1>
+    
+    <div id="chart1"></div>
+
+    <script type='text/javascript'>
+        function plot(graph, chart) {
+            var figure = JSON.parse(graph)
+            Plotly.newPlot(chart, figure, {});
+        }
+    </script>
+    
+    <py-script id="main">
+        import numpy as np
+        import plotly.graph_objects as go
+        import js
+        
+        x = np.arange(50_000)
+        noisy_sin = (3 + np.sin(x / 200) + np.random.randn(len(x)) / 10) * x / 1_000
+        
+        fig = go.Figure()
+        fig.add_trace(go.Scatter(x=x, y=noisy_sin))
+        
+        js.plot(fig.to_json(), "chart1")
+    </py-script>
+
+</body>
+
+</html>

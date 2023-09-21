@@ -1,0 +1,78 @@
+/* h1 {
+	font-style: bold;
+	font-family: comic sans;
+}
+
+body {
+	background-color: blue;
+}
+
+.flex-container {
+	display: flex;
+	background-color: lightblue;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 100%;
+}
+
+
+#header {
+	margin: auto;
+	position: relative;
+	background-color: white;
+	margin: 10px;
+	padding: 20px;
+	width: 50%;
+	text-align: center;
+	}
+
+#body {
+	background-color: white;
+	margin: 10px;
+	padding: 20px;
+	width: 50%;
+	text-align: center;
+	position: relative;
+} */
+
+body {
+	background-color: rgb(245, 244, 244);
+	font-size: 18px;
+}
+
+#header {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Stardew Valley', sans-serif;
+	font-size: 2em;
+	font-weight: 100;
+}
+
+h2 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.3em;
+	font-weight: 100;
+}
+
+#itemForm {
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	text-align: center;
+}
+
+label {
+	font-size: 1em;
+	font-family: 'Roboto', sans-serif;
+	margin-right: 10px;
+}
+
+input[type=text] {
+	font-size: 0.9em;
+	font-family: 'Roboto', sans-serif;
+}
