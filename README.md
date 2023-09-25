@@ -47,6 +47,7 @@
 
   ![Python Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
   ![Plotly Badge](https://img.shields.io/badge/Plotly-blue?style=for-the-badge&logo=plotly)
+  ![Pillow Badge](https://img.shields.io/badge/Pillow-red?style=for-the-badge&logo=pypi)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
