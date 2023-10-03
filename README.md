@@ -10,7 +10,7 @@
   <h3 align="center">Stardew Valley Villager Food Preferences</h3>
 
   <p align="center">
-    <a href="#">View Demonstration Video</a>
+<!--     View Demonstration Video -->
   </p>
 </div>
 
